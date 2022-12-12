@@ -1,0 +1,5 @@
+Dino : knjige ,
+Mare : filmovi,
+Zare : react => programiranje full stack
+
+a sada ću da uradim NIŠTA :-)
